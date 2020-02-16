@@ -1,0 +1,2 @@
+# struts2_crm_demo
+基于Hibernate和Struts2的客户管理系统demo
